@@ -2,7 +2,7 @@ ansible==2.9.9
 asyncio==3.4.3
 asyncssh==1.18.0
 click==7.1.2
-Jinja2==2.11.2
+Jinja2==2.11.3
 napalm==3.0.1
 netdev==0.9.3
 netmiko==3.1.1
