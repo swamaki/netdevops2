@@ -43,7 +43,7 @@ pyparsing==2.4.7
 pyserial==3.4
 python-decouple==3.3
 pytz==2020.1
-PyYAML==5.3.1
+PyYAML==5.4
 regex==2020.6.8
 requests==2.23.0
 ruamel.yaml==0.16.10
